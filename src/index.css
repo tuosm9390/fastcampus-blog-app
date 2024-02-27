@@ -458,6 +458,15 @@ input:checked+.carousel__slide-container .nav label {
   color: red;
 }
 
+.form select {
+  border: 1px solid #f2f2f2;
+  max-width: 680px;
+  height: 40px;
+  padding: 0px 20px;
+  border-radius: 0.3rem;
+
+}
+
 /* loader */
 .loader {
   width: 48px;
