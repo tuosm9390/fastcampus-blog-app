@@ -4,6 +4,7 @@ import { db } from "firebaseApp";
 import { useContext, useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { toast } from "react-toastify";
+
 interface PostListProps {
   hasNavigation?: boolean;
   defaultTab?: TabType | CategoryType;
