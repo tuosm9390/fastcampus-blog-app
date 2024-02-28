@@ -51,6 +51,6 @@ firebase 및 api키 보안 설정
 
 firebase CLI 설정
 
-### URL
+### `URL`
 fastcampus-react-blog-4de58.web.app
 fastcampus-react-blog-4de58.firebaseapp.com
